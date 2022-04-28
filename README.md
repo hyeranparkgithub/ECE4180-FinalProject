@@ -27,9 +27,16 @@ Demo: <br>
   - LCD Display uLCD-144G2 (https://www.sparkfun.com/products/11377)
   - 2 Motors (https://botland.store/geared-dc-angle-motors/2488-dc-motor-dagu-dg01d-with-48-1-gear-45v-with-double-sided-shaft-2pcs-6952581600251.html)
   - 2 Ultrasonic sensors HC-SR04 (https://os.mbed.com/components/HC-SR04/)
-  - Red LEDs (https://www.sparkfun.com/products/10632)
+  - 5 Pushbuttons: https://www.sparkfun.com/products/97
+  - Speaker: https://www.sparkfun.com/products/11089
+  - Jumper Wires(M/M and M/F): https://www.sparkfun.com/products/124, https://www.sparkfun.com/products/12794
+  
+  Non-electronics:
+  - 4 wheels
+  - Chassis
   
 ## Schematic and Diagrams <a name="schematic">
 ## Source Code <a name="source">
+  All source code is included in this repository. Run it by importing the repository into the MBed Cloud Compiler. Make sure to included all the libraries.
 ## Future Improvements <a name="future">
   For future improvement of this project we would like to pursue a smaller model which can be placed on a table instead of the floor with sensors that are more accurate and update fasters in order to avoid stepping on the robot by mistake. Another improvement could be to house the wiring for the robot inside a nicer chassis and maybe use a more sophisticated turn-off-alarm system to ensure that the user is fully awake when turning the alarm off. 
