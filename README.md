@@ -24,18 +24,24 @@ Demo: <br>
 ## Parts List <a name="partslist">
   For this project we used the following devices and parts:
   - 1 MBED LPC1768 (https://www.sparkfun.com/products/9564)
-  - LCD Display uLCD-144G2 (https://www.sparkfun.com/products/11377)
+  - 1 LCD Display uLCD-144G2 (https://www.sparkfun.com/products/11377)
   - 2 Motors (https://botland.store/geared-dc-angle-motors/2488-dc-motor-dagu-dg01d-with-48-1-gear-45v-with-double-sided-shaft-2pcs-6952581600251.html)
   - 2 Ultrasonic sensors HC-SR04 (https://os.mbed.com/components/HC-SR04/)
   - 5 Pushbuttons: https://www.sparkfun.com/products/97
-  - Speaker: https://www.sparkfun.com/products/11089
+  - 1 Speaker: https://www.sparkfun.com/products/11089
   - Jumper Wires(M/M and M/F): https://www.sparkfun.com/products/124, https://www.sparkfun.com/products/12794
+  - AA batteries
+  - 1 Battery Pack
+  - Rechargeable Battery
   
   Non-electronics:
   - 4 wheels
-  - Chassis
+  - Robot Chassis
   
 ## Schematic and Diagrams <a name="schematic">
+  ![image](https://user-images.githubusercontent.com/40806367/165845296-69773d58-57de-499d-97f1-3765606e5e70.png)
+Block diagram of our device.
+  
 ## Source Code <a name="source">
   All source code is included in this repository. Run it by importing the repository into the MBed Cloud Compiler. Make sure to included all the libraries.
 ## Future Improvements <a name="future">
